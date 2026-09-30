@@ -3,7 +3,7 @@
 // ============================================
 
 const telefonoPedidos = "525575530081";
-const telefonoGeneral = "5255XXXXXXXX";
+const telefonoGeneral = "525512952382";
 
 
 // ============================================
